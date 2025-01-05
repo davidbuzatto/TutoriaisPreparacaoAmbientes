@@ -7,8 +7,8 @@ Links importantes:
 
 Capítulos:
 00:00 - Introdução
-05:46 - Instalação e Configuração do JDK
-18:34 - Instalação e Configuração do Visual Studio Code
-18:34 - Instalação e Configuração do NetBeans
-28:51 - Instalação e Configuração do JJudge
-33:47 - Conclusão
+00:00 - Instalação e Configuração do JDK
+00:00 - Instalação e Configuração do Visual Studio Code
+00:00 - Instalação e Configuração do NetBeans
+00:00 - Instalação e Configuração do JJudge
+00:00 - Conclusão
