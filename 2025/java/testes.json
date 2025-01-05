@@ -1,0 +1,18 @@
+[
+  {
+    "description": "teste preparação ambiente",
+    "programmingLanguage": "JAVA",
+    "tests": [
+      {
+        "name": "Teste",
+        "presentationName": "Teste",
+        "testCases": [
+          {
+            "input": "",
+            "output": "teste"
+          }
+        ]
+      }
+    ]
+  }
+]

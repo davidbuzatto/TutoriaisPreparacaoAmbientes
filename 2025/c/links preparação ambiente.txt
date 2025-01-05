@@ -1,0 +1,15 @@
+Links importantes:
+- MSYS2: https://www.msys2.org/
+    - Pacotes:
+        - gcc toolchain: pacman -S mingw-w64-ucrt-x86_64-toolchain
+        - cmake: pacman -S mingw-w64-ucrt-x86_64-cmake
+- Visual Studio Code: https://code.visualstudio.com/
+- JJudge: https://github.com/davidbuzatto/JJudge/releases/latest
+- Testes e Extensões: https://github.com/davidbuzatto/TutoriaisPreparacaoAmbientes
+
+Capítulos:
+00:00 - Introdução
+05:46 - Instalação e Configuração do MSYS2
+18:34 - Instalação e Configuração do Visual Studio Code
+28:51 - Instalação e Configuração do JJudge
+33:47 - Conclusão

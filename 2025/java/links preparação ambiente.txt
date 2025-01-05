@@ -1,0 +1,14 @@
+Links importantes:
+- JDK: https://www.oracle.com/java/technologies/downloads/#java21
+- Visual Studio Code: https://code.visualstudio.com/
+- NetBeans: https://netbeans.apache.org/
+- JJudge: https://github.com/davidbuzatto/JJudge/releases/latest
+- Testes e Extensões: https://github.com/davidbuzatto/TutoriaisPreparacaoAmbientes
+
+Capítulos:
+00:00 - Introdução
+05:46 - Instalação e Configuração do JDK
+18:34 - Instalação e Configuração do Visual Studio Code
+18:34 - Instalação e Configuração do NetBeans
+28:51 - Instalação e Configuração do JJudge
+33:47 - Conclusão
