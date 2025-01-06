@@ -8,7 +8,7 @@ Links importantes:
 
 Capítulos:
 00:00 - Introdução
-00:00 - Instalação e Configuração do MSYS2
-00:00 - Instalação e Configuração do Visual Studio Code
-00:00 - Instalação e Configuração do JJudge
-00:00 - Conclusão
+00:47 - Instalação e Configuração do MSYS2
+08:15 - Instalação e Configuração do Visual Studio Code
+16:34 - Instalação e Configuração do JJudge
+19:10 - Conclusão
