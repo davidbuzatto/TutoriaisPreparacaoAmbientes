@@ -1,0 +1,11 @@
+Links importantes:
+- MSYS2: https://www.msys2.org/
+    - Pacotes:
+        - gcc toolchain: pacman -S mingw-w64-ucrt-x86_64-toolchain
+        - make: pacman -S make
+    - Adicionar à variável de ambiente PATH:
+        C:\msys64\ucrt64\bin
+        C:\msys64\usr\bin
+- Visual Studio Code: https://code.visualstudio.com/
+- JJudge: https://github.com/davidbuzatto/JJudge/releases/latest
+- Testes e Extensões: https://github.com/davidbuzatto/TutoriaisPreparacaoAmbientes

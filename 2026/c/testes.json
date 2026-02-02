@@ -1,0 +1,18 @@
+[
+  {
+    "description": "teste preparação ambiente",
+    "programmingLanguage": "C",
+    "tests": [
+      {
+        "name": "teste.1",
+        "presentationName": "Teste",
+        "testCases": [
+          {
+            "input": "",
+            "output": "teste"
+          }
+        ]
+      }
+    ]
+  }
+]
