@@ -9,3 +9,11 @@ Links importantes:
 - Visual Studio Code: https://code.visualstudio.com/
 - JJudge: https://github.com/davidbuzatto/JJudge/releases/latest
 - Testes e Extensões: https://github.com/davidbuzatto/TutoriaisPreparacaoAmbientes
+
+Capítulos:
+00:00 - Introdução
+03:12 - Instalação e Configuração do MSYS2
+14:14 - Instalação e Configuração do Visual Studio Code
+27:33 - Instalação e Configuração do JJudge
+33:34 - Ajustes no Windows (Para Desenvolvedores)
+37:26 - Conclusão
